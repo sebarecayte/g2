@@ -3,5 +3,9 @@ line 2 added by e2
 line 3 added by e1
 line 4 added by e2
 
+
 line 5 added by e2 in branch_e2
 line 6 added by e2 in branch_e3
+
+line 5 addeb by e1, original branch
+
