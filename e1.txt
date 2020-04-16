@@ -31,7 +31,7 @@ e1 	scrivo prova da branch
 
 
 
-e1	scrivo prova da vero branch
+e1	scrivo prova da vero branch - e2 aggiunge questo
 e1	scrivo prova da vero branch
 e1	scrivo prova da vero branch
 e1	scrivo prova da vero branch
