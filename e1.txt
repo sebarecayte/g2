@@ -6,7 +6,7 @@ e1	scrivo prova
 
 
 
-e2	cambia robe
+e2	modifica di e1
 e2	cambia robe
 e2	cambia robe
 e2	cambia robe ancora
